@@ -29,8 +29,8 @@ The purpose of this project is to test design patterns, UI compositions, and ove
 ## 📬 Contact
 
 Questions or collaboration ideas?  
-Email: *[your-email@example.com]*  
-Portfolio: [nurassyl-ux.github.io/k](https://nurassyl-ux.github.io/k/)
+Email: *[nurasylbazarbai564@gmail.com]*  
+Portfolio: [github.com/Nurassyl28](https://github.com/Nurassyl28)
 
 ---
 
